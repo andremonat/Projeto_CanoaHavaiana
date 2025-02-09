@@ -20,7 +20,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 #mp_face_mesh = mp.solutions.face_mesh
 
-DEMO_VIDEO = "./videos/demo.mp4"
+DEMO_VIDEO = "./videos/Homem_Academia.mp4"
 OUTM = "output1.mp4"
 DEMO_IMAGE = "./images/remadorSolitario.jpg"
 
